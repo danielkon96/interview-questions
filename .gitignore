@@ -102,3 +102,8 @@ yarn.lock
 .DS_Store
 Thumbs.db
 
+Interview/pyvenv.cfg
+Interview/Scripts/activate
+Interview/Scripts/activate.bat
+Interview/Scripts/Activate.ps1
+Interview/Scripts/deactivate.bat
